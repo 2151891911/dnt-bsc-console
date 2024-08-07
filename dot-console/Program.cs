@@ -1,36 +1,44 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// int convertValue = 5;
+// float myFloat = 6.0f;
 
-using System.Collections;
+// decimal myDecimal = 5.9m;
 
-int convertValue = 5;
-float myFloat = 6.0f;
+// Console.WriteLine(typeof(int)); // Value type
+// Console.WriteLine(typeof(TextWriter)); // Class type
+// Console.WriteLine(typeof(Array)); // Class type
+// Console.WriteLine(typeof(int[])); // Array reference type
 
-decimal myDecimal = 5.9m;
+// float myDouble = Convert.ToInt32(convertValue);
 
-Console.WriteLine(typeof(int)); // Value type
-Console.WriteLine(typeof(TextWriter)); // Class type
-Console.WriteLine(typeof(Array)); // Class type
-Console.WriteLine(typeof(int[])); // Array reference type
-
-float myDouble = Convert.ToInt32(convertValue);
-
-Console.WriteLine(myDouble);
-Console.WriteLine(myFloat);
+// Console.WriteLine(myDouble);
+// Console.WriteLine(myFloat);
 
 
-float decimalQuotient = 1.0f * 7 / 5;
+// float decimalQuotient = 1.0f * 7 / 5;
 
-Console.WriteLine(decimalQuotient);
+// Console.WriteLine(decimalQuotient);
 
-int overflowTheInteger = int.MaxValue;
+// int overflowTheInteger = int.MaxValue;
 
-overflowTheInteger ++;
+// overflowTheInteger++;
 
-Console.WriteLine(overflowTheInteger);
+// Console.WriteLine(overflowTheInteger);
 
-int? aTest = null;
+// int? aTest = null;
 
-Console.WriteLine(aTest);
-Console.WriteLine(">>> executed");
+// Console.WriteLine(aTest);
+// Console.WriteLine(">>> executed");
 
-    
+// Random dice = new Random();
+// int roll = dice.Next(1, 7);
+// Console.WriteLine(roll);
+
+//---------------------------- ESI learning
+
+int firstValue = 500;
+int secondValue = 600;
+int largerValue = Math.Max(firstValue, secondValue);
+
+
+
+Console.WriteLine(largerValue);
