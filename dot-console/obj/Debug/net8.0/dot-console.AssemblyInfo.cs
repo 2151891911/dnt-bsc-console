@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dot-console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c34d2daab6dbd8e154d87818ab1117e6ac867d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d53a9085cb0756af0de5a50895d8cdfc8325b0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("dot-console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dot-console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
