@@ -6,7 +6,7 @@ class Helper
     }
 
     //git: changed this
-    public int TestMath(int a, int b)
+    public static int TestMath(int a, int b)
     {
         return a + b;   
     }
