@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n578\\Videos\\Workbench\\dot-bsc-console\\dot-console\\dot-console.csproj": {}
+    "C:\\Users\\n578\\Videos\\Workbench\\app-bsc-console\\dot-console\\dot-console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\n578\\Videos\\Workbench\\dot-bsc-console\\dot-console\\dot-console.csproj": {
+    "C:\\Users\\n578\\Videos\\Workbench\\app-bsc-console\\dot-console\\dot-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n578\\Videos\\Workbench\\dot-bsc-console\\dot-console\\dot-console.csproj",
+        "projectUniqueName": "C:\\Users\\n578\\Videos\\Workbench\\app-bsc-console\\dot-console\\dot-console.csproj",
         "projectName": "dot-console",
-        "projectPath": "C:\\Users\\n578\\Videos\\Workbench\\dot-bsc-console\\dot-console\\dot-console.csproj",
+        "projectPath": "C:\\Users\\n578\\Videos\\Workbench\\app-bsc-console\\dot-console\\dot-console.csproj",
         "packagesPath": "C:\\Users\\n578\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n578\\Videos\\Workbench\\dot-bsc-console\\dot-console\\obj\\",
+        "outputPath": "C:\\Users\\n578\\Videos\\Workbench\\app-bsc-console\\dot-console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\n578\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.112/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
